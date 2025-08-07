@@ -12,7 +12,7 @@ OpenAI GPTを使用した専門家相談システムです。法律、医療、�
 
 1. 必要なパッケージをインストール:
 ```bash
-pip install streamlit langchain langchain-openai python-dotenv
+pip install -r requirements.txt
 ```
 
 2. `.env`ファイルを作成し、OpenAI APIキーを設定:
